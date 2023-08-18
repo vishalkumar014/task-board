@@ -5,7 +5,7 @@ Simplified version of Task Board.
 
 ## Authors
 
-- [@vishalkumar014](https://www.github.com/vishalkumar014)
+- [@vishalsainioffical](https://www.github.com/vishalsainioffical)
 
 
 ## Packages Used
