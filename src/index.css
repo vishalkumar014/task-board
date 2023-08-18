@@ -1,0 +1,45 @@
+.sidebar {
+  height: 100vh;
+  background-color: #333; /* Adjust the background color as needed */
+}
+.flex-column.navbar-nav {
+  position: absolute;
+  top: 0;
+}
+
+.board_view.row {
+  flex-wrap: nowrap;
+}
+
+.board_view{
+  overflow: hidden;
+  overflow-x: scroll;
+  height: 263px;
+}
+.board {
+  border: 1px solid;
+  padding: 0;
+}
+
+.cards-container .card {
+  margin-top: 9px;
+}
+.cards-container .card h5, .cards-container .card p {
+  padding: 5px 6px;
+}
+.list .title span {text-align: center;
+  padding: 3px;
+  background: black;
+  color: white;
+  border-radius: 5px;
+}
+.list .title.row .col-md-6:nth-child(2){
+  padding: 7px 0px;
+}
+nav.sidebar {
+  padding: 0px 33px;
+}
+.board {
+  overflow: hidden;
+  overflow-y: scroll;
+}
